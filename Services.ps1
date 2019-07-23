@@ -1,0 +1,1 @@
+﻿get-service | select name,description, status >> c:\temp\Servicestatus.txt
